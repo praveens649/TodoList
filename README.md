@@ -20,5 +20,5 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/praveens649/todolist.git
+   git clone https://github.com/praveens649/TodoList.git
    cd todolist
